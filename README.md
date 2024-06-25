@@ -1,0 +1,5 @@
+Local Storage Beginning
+===
+In questo esercizio semplice e basilare, ho utilizzato HTML, CSS e JavaScript puro senza l'ausilio di framework per creare una pagina web che dimostra l'uso del local storage. L'obiettivo del progetto era di apprendere come memorizzare e recuperare dati dal local storage del browser, consentendo la persistenza delle informazioni anche dopo la chiusura e la riapertura della pagina.
+
+L'interfaccia è minimalista, con un campo input per l'inserimento dei dati e un'area per visualizzare le informazioni salvate. Tramite JavaScript, i dati inseriti nel campo input vengono salvati nel local storage e recuperati ogni volta che la pagina viene caricata. Questo esercizio mi ha permesso di capire meglio il funzionamento del local storage e come utilizzarlo per migliorare l'esperienza utente nelle applicazioni web.
